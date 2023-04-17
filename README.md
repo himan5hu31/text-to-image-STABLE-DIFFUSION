@@ -1,4 +1,4 @@
-# text-to-image-STABLE-DIFFUSION
+# text-to-image STABLE-DIFFUSION
 ## genrated Images : 
 
 we used the Stable Diffusion Model by Hugging Face to generate realistic images from textual descriptions. We preprocessed the textual descriptions to generate latent codes and trained the Stable Diffusion Model using these latent codes. The model was evaluated based on various metrics and visual inspection of the generated images. The results demonstrate the effectiveness of the Stable Diffusion Model for text to image generation.
